@@ -1,0 +1,20 @@
+.login-content {
+    height: 100vh;
+}
+
+.btn-login{
+    background-color: darkblue;
+    color: #fff;
+}
+.btn-login:hover{
+    background-color: #178ab6;
+    color: darkblue;
+}
+
+.opcoes-login a{
+    color: #fff;
+}
+
+.form-signin {
+    min-width: 320px;
+}

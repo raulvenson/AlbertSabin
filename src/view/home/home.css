@@ -1,0 +1,15 @@
+.capa-principal img{
+    width: 100%;
+  
+}
+
+/* .principal{
+    font-family: "roboto";
+} */
+
+.eventos {
+    display: flex ;
+    justify-content: center;
+    /* columns: auto ; */
+    
+}
