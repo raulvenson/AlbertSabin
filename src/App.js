@@ -8,6 +8,7 @@ import Home from './view/home'
 import Sobre from './view/sobre'
 import Cursos from './view/cursos'
 import Login from './view/login'
+import Blog from './view/blog'
 
 
 export default function App(){
@@ -18,6 +19,7 @@ export default function App(){
                 <Route exact path="/sobre" component={Sobre}/>
                 <Route exact path="/cursos" component={Cursos}/>
                 <Route exact path="/login" component={Login}/>
+                <Route exact path="/blog" component={Blog}/>
             </BrowserRouter>
         </Provider>
     )
